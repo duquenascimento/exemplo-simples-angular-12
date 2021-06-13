@@ -1,0 +1,20 @@
+<div id="divChart">
+  <h3>Lista Controle Lançamento</h3>
+<table class="table table-hover" >
+  <thead>
+    <tr>
+      <th scope="col">Quantidade Lançamentos</th>
+      <th scope="col">Quantidade Remessas</th>
+      <th scope="col">Valor Lançamentos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">{{release.quantidadeLancamentos}}</th>
+      <td>{{release.quantidadeRemessas}}</td>
+      <td>{{release.valorLancamentos | currency:'BRL':true:'1.2-2'}}</td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
