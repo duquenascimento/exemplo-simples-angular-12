@@ -1,6 +1,6 @@
 # Exemplo Simples Angular
 
-Este projeto foi gerado com  [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3. Um siples exemple de utilização com Chartjs.
+Este projeto foi gerado com  [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3. Um simples exemplo de utilização com Chartjs.
 
 ## Iniciando
 
